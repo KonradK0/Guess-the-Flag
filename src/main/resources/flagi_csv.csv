@@ -1,0 +1,199 @@
+name,hasGreen,hasRed,hasBlue,hasBlack,hasWhite,hasYellow,hasCrest,hasStar,hasHalfMoon,hasCircle,hasCross,hasTriangle,hasVerticalStripes,hasHorizontalStripes,colorsCount,hasOrange,stripesCount,hasDiagonalStripes,hasBrown,hasCenterOfSymmetry,topMostColor,hasSpecialFeatures,colorOnRight,starsCount,widthHeightRatio,blueHue,dominatingColor
+Afganistan,true,true,false,true,true,false,true,false,false,false,false,false,true,false,4,false,3,false,false,false,undefined,false,green,0,1,undefined,undefined
+Albania,false,true,false,true,false,false,true,false,false,false,false,false,false,false,2,false,0,false,false,false,red,false,red,0,1,undefined,red
+Algieria,true,true,false,false,true,false,false,true,true,false,false,false,true,false,3,false,2,false,false,false,undefined,false,white,1,1,undefined,undefined
+Andora,true,true,true,false,true,true,true,false,false,false,false,false,true,false,5,false,3,false,false,false,undefined,false,red,0,1,navy,undefined
+Angola,false,true,false,true,false,true,true,true,false,false,false,false,false,true,3,false,2,false,false,false,red,false,undefined,1,1,undefined,undefined
+Antigua i Barbadua,false,true,true,true,true,true,false,false,false,false,false,true,false,true,5,false,3,false,false,false,black,true,red,0,1,azure,red
+Argentyna,false,false,true,false,true,true,false,false,false,false,false,false,false,true,3,false,3,false,false,false,blue,true,undefined,0,1,azure,undefined
+Armenia,false,true,true,false,false,false,false,false,false,false,false,false,false,true,3,true,3,false,false,false,red,false,undefined,0,1,navy,undefined
+Australia,false,true,true,false,true,false,false,true,false,false,true,false,false,false,3,false,0,false,false,false,undefined,false,blue,6,1,navy,blue
+Austria,false,true,false,false,true,false,false,false,false,false,false,false,false,true,2,false,3,false,false,true,red,false,undefined,0,1,undefined,undefined
+Azerbejdżan,true,true,true,false,true,false,false,true,true,false,false,false,false,true,4,false,3,false,false,false,blue,false,undefined,1,1,azure,undefined
+Bahamy,false,false,true,true,false,true,false,false,false,false,false,true,false,true,3,false,3,false,false,false,blue,false,undefined,0,1,azure,undefined
+Bahrain,false,true,false,false,true,false,false,false,false,false,false,true,true,false,2,false,2,false,false,false,undefined,false,red,0,1,undefined,undefined
+Bangladesz,true,true,false,false,false,false,false,false,false,true,false,false,false,false,2,false,0,false,false,true,green,false,green,0,1,undefined,green
+Barbados,false,false,true,true,false,true,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,true,blue,0,1,navy,undefined
+Białoruś,true,true,false,false,true,false,false,false,false,false,false,false,false,true,3,false,2,false,false,false,undefined,true,undefined,0,1,undefined,red
+Belgia,false,true,false,true,false,true,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,0,1,undefined,undefined
+Belize,true,true,true,false,true,true,true,false,false,true,false,false,false,true,5,false,3,false,false,false,red,false,undefined,0,1,navy,blue
+Benin,true,true,false,false,false,true,false,false,false,false,false,false,false,true,3,false,2,false,false,false,undefined,false,undefined,0,1,undefined,undefined
+Bhutan,false,true,false,true,true,true,false,false,false,false,false,false,false,false,4,false,2,true,false,false,yellow,true,red,0,1,undefined,undefined
+Boliwia,true,true,false,false,false,true,false,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,undefined,undefined
+Bośnia i Hercegowina,false,false,true,false,true,true,false,true,false,false,false,true,false,false,3,false,0,false,false,false,undefined,false,blue,7,1,navy,blue
+Botswana,false,false,true,true,true,false,false,false,false,false,false,false,false,true,3,false,5,false,false,true,blue,false,undefined,0,1,azure,blue
+Brazylia,true,false,true,false,true,true,false,true,false,true,false,false,false,false,4,false,0,false,false,false,green,true,green,27,1,navy,green
+Brunei,false,true,false,true,true,true,true,false,false,false,false,false,false,false,4,false,4,true,false,false,yellow,false,undefined,0,1,undefined,yellow
+Bułgaria,true,true,false,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,white,false,undefined,0,1,undefined,undefined
+Burkina Faso,true,true,false,false,false,true,false,true,false,false,false,false,false,true,3,false,2,false,false,false,red,false,undefined,1,1,undefined,undefined
+Birma,false,true,true,false,true,false,false,true,false,false,false,false,false,false,3,false,0,false,false,false,undefined,true,red,14,1,navy,red
+Burundi,true,true,false,false,true,false,false,true,false,true,true,false,false,false,3,false,0,false,false,false,undefined,false,undefined,3,1,undefined,undefined
+Kambodża,false,true,true,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,blue,true,undefined,0,1,navy,undefined
+Kamerun,true,true,false,false,false,true,false,true,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,yellow,1,1,undefined,undefined
+Kanada,false,true,false,false,true,false,false,false,false,false,false,false,true,false,2,false,3,false,false,false,undefined,true,red,0,1,undefined,undefined
+Republika Zielonego Przylądka,false,true,true,false,true,true,false,true,false,false,false,false,false,true,4,false,5,false,false,false,blue,false,undefined,10,1,navy,blue
+Republika Środkowoafrykańska,true,true,true,false,true,true,false,true,false,false,false,false,false,true,6,false,4,false,false,false,undefined,false,undefined,1,1,navy,undefined
+Czad,false,true,true,false,false,true,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,0,1,indygo,undefined
+Chile,false,true,true,false,true,false,false,true,false,false,false,false,false,true,3,false,2,false,false,false,undefined,false,undefined,1,1,blue,undefined
+Chiny,false,true,false,false,false,true,false,true,false,false,false,false,false,false,2,false,0,false,false,false,red,false,red,5,1,undefined,red
+Kolumbia,false,true,true,false,false,true,false,false,false,false,false,false,false,true,3,false,3,false,false,false,yellow,false,undefined,0,1,blue,yellow
+Komory,true,true,true,false,true,true,false,true,true,false,false,true,false,true,5,false,4,false,false,false,yellow,false,undefined,4,1,azure,undefined
+Demokratyczna Republika Konga,false,true,true,false,false,true,false,true,false,false,false,false,false,false,3,false,5,true,false,false,undefined,false,undefined,1,1,blue,blue
+Kongo,true,true,false,false,false,true,false,false,false,false,false,false,false,false,3,false,3,true,false,false,undefined,false,red,0,1,undefined,undefined
+Kostaryka,false,true,true,false,true,false,false,false,false,false,false,false,false,true,3,false,5,false,false,true,blue,false,undefined,0,1,navy,undefined
+Wybrzeże Kości Słoniowej,true,false,false,false,true,false,false,false,false,false,false,false,true,false,3,true,3,false,false,false,undefined,false,green,0,1,undefined,undefined
+Chorwacja,false,true,true,false,true,false,true,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,navy,undefined
+Kuba,false,true,true,false,true,false,false,true,false,false,false,true,false,true,3,false,5,false,false,false,blue,false,undefined,1,1,blue,undefined
+Cypr,true,false,false,false,true,false,false,false,false,false,false,false,false,false,3,true,0,false,false,false,white,true,white,0,1,undefined,white
+Czechy,false,true,true,false,true,false,false,false,false,false,false,true,false,true,3,false,2,false,false,false,white,false,undefined,0,1,blue,undefined
+Dania,false,true,false,false,true,false,false,false,false,false,true,false,false,false,2,false,0,false,false,false,undefined,false,undefined,0,1,undefined,red
+Dżibuti,true,true,true,false,true,false,false,true,false,false,false,true,false,true,4,false,2,false,false,false,blue,false,undefined,1,1,azure,undefined
+Dominika,true,true,false,true,true,true,false,true,false,true,true,false,false,false,5,false,0,false,false,false,undefined,true,undefined,10,1,undefined,green
+Dominikana,false,true,true,false,true,false,true,false,false,false,true,false,false,false,3,false,0,false,false,false,undefined,false,undefined,0,1,blue,undefined
+Timor Wschodni,false,true,false,true,true,true,false,true,false,false,false,true,false,false,4,false,0,false,false,false,red,false,red,1,1,undefined,red
+Ekwador,false,true,true,false,false,true,true,false,false,false,false,false,false,true,3,false,3,false,false,false,yellow,false,undefined,0,1,navy,yellow
+Egipt,false,true,false,true,true,true,true,false,false,false,false,false,false,true,4,false,3,false,false,false,red,false,undefined,0,1,undefined,undefined
+Salwador,false,false,true,false,true,true,true,false,false,false,false,true,false,true,3,false,3,false,false,false,blue,false,undefined,0,1,navy,undefined
+Gwinea Równikowa,true,true,true,false,true,true,true,true,false,false,false,true,false,true,6,false,3,false,false,false,green,false,undefined,6,1,azure,undefined
+Erytrea,true,true,true,false,false,true,false,false,false,false,false,true,false,false,4,false,0,false,false,false,green,true,undefined,0,1,azure,undefined
+Estonia,false,false,true,true,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,blue,false,undefined,0,1,blue,undefined
+Etiopia,true,true,true,false,false,true,true,true,false,true,false,false,false,true,4,false,3,false,false,false,green,false,undefined,1,1,azure,undefined
+Wyspy Owcze,false,true,true,false,true,false,false,false,false,false,true,false,false,false,3,false,0,false,false,false,undefined,false,undefined,0,1,blue,white
+Fidżi,false,true,true,false,true,false,true,false,false,false,true,false,false,false,3,false,0,false,false,false,undefined,false,blue,0,1,azure,blue
+Finlandia,false,false,true,false,true,false,false,false,false,false,true,false,false,false,2,false,0,false,false,false,undefined,false,undefined,0,1,blue,white
+Francja,false,true,true,false,true,false,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,0,1,navy,undefined
+Gabon,true,false,true,false,false,true,false,false,false,false,false,false,false,true,3,false,3,false,false,false,green,false,undefined,0,1,azure,undefined
+Gambia,true,true,true,false,true,false,false,false,false,false,false,false,false,true,4,false,5,false,false,false,red,false,undefined,0,1,navy,undefined
+Gruzja,false,true,false,false,true,false,false,false,false,false,true,false,false,false,2,false,0,false,false,true,undefined,false,undefined,0,1,undefined,white
+Niemcy,false,true,false,true,false,true,false,false,false,false,false,false,false,true,3,false,3,false,false,false,black,false,undefined,0,1,undefined,undefined
+Ghana,true,true,false,true,false,true,false,true,false,false,false,false,false,true,4,false,3,false,false,false,red,false,undefined,1,1,undefined,undefined
+Grecja,false,false,true,false,true,false,false,false,false,false,true,false,false,true,2,false,9,false,false,false,undefined,false,undefined,0,1,navy,undefined
+Grenada,true,true,false,false,false,true,false,true,false,true,false,false,false,false,3,false,0,false,false,false,red,true,red,7,1,undefined,undefined
+Gwatemala,true,false,true,false,true,false,true,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,blue,0,1,azure,blue
+Gwinea Bissau,true,true,false,true,false,true,false,true,false,false,false,false,false,true,4,false,2,false,false,false,undefined,false,undefined,1,1,undefined,undefined
+Gwinea,true,true,false,false,false,true,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,green,0,1,undefined,undefined
+Gujana,true,true,false,true,true,true,false,false,false,false,false,true,false,false,5,false,0,false,false,false,green,false,undefined,0,1,undefined,undefined
+Haiti,true,true,true,false,true,false,true,false,false,false,false,false,false,true,4,false,2,false,false,false,blue,false,undefined,0,1,navy,undefined
+Honduras,false,false,true,false,true,false,false,true,false,false,false,false,false,true,2,false,3,false,false,true,blue,false,undefined,5,1,blue,blue
+Węgry,true,true,false,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,undefined,undefined
+Islandia,false,true,true,false,true,false,false,false,false,false,true,false,false,false,3,false,0,false,false,false,undefined,false,undefined,0,1,navy,blue
+Indie,true,false,true,false,true,false,false,false,false,true,false,false,false,true,4,true,3,false,false,false,orange,true,undefined,0,1,navy,undefined
+Indonezja,false,true,false,false,true,false,false,false,false,false,false,false,false,true,2,false,2,false,false,false,red,false,undefined,0,2:3,undefined,undefined
+Iran,true,true,false,false,true,false,true,false,false,false,false,false,false,true,3,false,3,false,false,false,green,true,undefined,0,1,undefined,undefined
+Irak,true,true,false,true,true,false,false,false,false,false,false,false,false,true,4,false,3,false,false,false,red,true,undefined,0,1,undefined,undefined
+Irlandia,true,false,false,false,true,false,false,false,false,false,false,false,true,false,3,true,3,false,false,false,undefined,false,orange,0,1,undefined,undefined
+Izrael,false,false,true,false,true,false,false,true,false,false,false,false,false,true,2,false,5,false,false,true,white,false,undefined,1,1,blue,white
+Włochy,true,true,false,false,true,false,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,0,1,undefined,undefined
+Jamajka,true,false,false,true,false,true,false,false,false,false,true,true,false,false,3,false,0,false,false,true,undefined,false,undefined,0,1,undefined,undefined
+Japonia,false,true,false,false,true,false,false,false,false,true,false,false,false,false,2,false,0,false,false,true,white,false,white,0,1,undefined,white
+Jordania,true,true,false,true,true,false,false,true,false,false,false,true,false,true,4,false,3,false,false,false,black,false,undefined,1,1,undefined,undefined
+Kazachstan,false,false,true,false,false,true,false,false,false,true,false,false,false,false,2,false,0,false,false,false,blue,true,blue,0,1,azure,blue
+Kenia,true,true,false,true,true,false,true,false,false,false,false,false,false,true,4,false,5,false,false,false,black,false,undefined,0,1,undefined,undefined
+Kiribati,false,true,true,false,true,true,false,false,false,false,false,false,false,true,4,false,7,false,false,false,red,true,undefined,0,1,navy,undefined
+Kuwejt,true,true,false,true,true,false,false,false,false,false,false,false,false,true,4,false,3,false,false,false,green,true,undefined,0,1,undefined,undefined
+Kirgistan,false,true,false,false,false,true,false,false,false,true,false,false,false,false,2,false,0,false,false,false,red,true,red,0,1,undefined,red
+Laos,false,true,true,false,true,false,false,false,false,true,false,false,false,true,3,false,3,false,false,true,red,false,undefined,0,1,navy,undefined
+Łotwa,false,false,false,false,true,false,false,false,false,false,false,false,false,true,2,false,3,false,true,true,brown,false,undefined,0,1,undefined,brown
+Liban,true,true,false,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,red,true,undefined,0,1,undefined,undefined
+Lesotho,true,false,true,true,true,false,false,false,false,false,false,false,false,true,4,false,3,false,false,false,blue,true,undefined,0,1,navy,undefined
+Liberia,false,true,true,false,true,false,false,true,false,false,false,false,false,true,3,false,11,false,false,false,undefined,false,undefined,1,1,navy,undefined
+Libia,true,false,false,false,false,false,false,false,false,false,false,false,false,false,1,false,0,false,false,true,green,false,green,0,1,undefined,green
+Liechtenstein,false,true,true,false,false,true,false,false,false,false,false,false,false,true,3,false,2,false,false,false,blue,true,undefined,0,1,navy,undefined
+Litwa,true,true,false,false,false,true,false,false,false,false,false,false,false,true,3,false,3,false,false,false,yellow,false,undefined,0,1,undefined,undefined
+Luksemburg,false,true,true,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,azure,undefined
+Macedonia,false,true,false,false,false,true,false,false,false,true,false,false,false,false,2,false,0,false,false,true,undefined,true,undefined,0,1,undefined,red
+Madagaskar,true,true,false,false,true,false,false,false,false,false,false,false,false,true,3,false,2,false,false,false,undefined,false,undefined,0,1,undefined,undefined
+Malawi,true,true,false,true,false,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,black,true,undefined,0,1,undefined,undefined
+Malezja,false,true,true,false,true,true,false,true,true,false,false,false,false,true,4,false,14,false,false,false,undefined,false,undefined,1,1,blue,undefined
+Malediwy,true,true,false,false,true,false,false,false,true,false,false,false,false,false,3,false,0,false,false,false,red,false,red,0,1,undefined,red
+Mali,true,true,false,false,false,true,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,0,1,undefined,undefined
+Malta,false,true,false,false,true,false,false,false,false,false,true,false,true,false,3,false,2,false,false,false,undefined,true,red,0,1,undefined,undefined
+Wyspy Marshalla,false,false,true,false,true,false,false,false,false,false,false,false,false,false,3,true,0,false,false,false,blue,true,undefined,0,1,blue,blue
+Mauretania,true,false,false,false,false,true,false,true,true,false,false,false,false,false,2,false,0,false,false,false,green,false,green,1,1,undefined,green
+Mauritius,true,true,true,false,false,true,false,false,false,false,false,false,false,true,4,false,4,false,false,false,red,false,undefined,0,1,blue,undefined
+Meksyk,true,true,false,false,true,false,true,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,0,1,undefined,undefined
+Mikornezja,false,false,true,false,true,false,false,true,false,false,false,false,false,false,2,false,0,false,false,true,blue,false,blue,4,1,azure,blue
+Mołdawia,false,true,true,false,false,true,true,false,false,false,false,false,true,false,3,false,3,false,true,false,undefined,false,red,0,1,blue,undefined
+Monako,false,true,false,false,true,false,false,false,false,false,false,false,false,true,2,false,2,false,false,false,red,false,undefined,0,4:5,undefined,undefined
+Mongolia,false,true,true,false,false,true,false,false,false,true,false,true,true,false,3,false,3,false,false,false,undefined,true,red,0,1,azure,red
+Czarnogóra,false,true,false,false,false,true,true,false,false,false,false,false,false,false,2,false,0,false,false,false,yellow,false,yellow,0,1,undefined,red
+Maroko,true,true,false,false,false,false,false,true,false,false,false,false,false,false,2,false,0,false,false,false,red,false,red,1,1,undefined,red
+Mozambik,true,true,false,true,true,true,false,true,false,false,false,true,false,true,5,false,5,false,false,false,green,true,undefined,1,1,undefined,undefined
+Namibia,true,true,true,false,true,true,false,false,false,true,false,false,false,false,5,false,5,true,false,false,undefined,true,undefined,0,1,blue,undefined
+Nauru,false,false,true,false,true,true,false,true,false,false,false,false,false,true,3,false,3,false,false,false,blue,false,undefined,1,1,blue,blue
+Nepal,false,true,true,false,true,false,false,true,true,false,false,false,false,false,3,false,0,false,false,false,blue,true,undefined,1,1,blue,red
+Holandia,false,true,true,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,navy,undefined
+Nowa Zelandia,false,true,true,false,true,false,false,true,false,false,true,false,false,false,3,false,0,false,false,false,undefined,false,blue,4,1,navy,blue
+Nikaragua,false,false,true,false,true,true,true,false,false,false,false,true,false,true,3,false,3,false,false,false,blue,false,undefined,0,1,blue,undefined
+Niger,true,false,false,false,true,false,false,false,false,true,false,false,false,true,3,true,3,false,false,false,orange,false,undefined,0,1,undefined,undefined
+Nigeria,true,false,false,false,true,false,false,false,false,false,false,false,true,false,2,false,3,false,false,true,undefined,false,green,0,1,undefined,green
+Korea Północna,false,true,true,false,true,false,false,true,false,true,false,false,false,true,3,false,5,false,false,false,blue,false,undefined,1,1,blue,red
+Norwegia,false,true,true,false,true,false,false,false,false,false,true,false,false,false,3,false,0,false,false,false,undefined,false,undefined,0,1,navy,red
+Oman,true,true,false,false,true,false,true,false,false,false,false,false,false,true,3,false,3,false,false,false,undefined,false,undefined,0,1,undefined,undefined
+Pakistan,true,false,false,false,true,false,false,true,true,false,false,false,true,false,2,false,2,false,false,false,undefined,false,green,1,1,undefined,green
+Palau,false,false,true,false,false,true,false,false,false,true,false,false,false,false,2,false,0,false,false,false,blue,false,blue,0,1,azure,blue
+Palestyna,true,true,false,true,true,false,false,false,false,false,false,true,false,true,4,false,3,false,false,false,black,false,undefined,0,1,undefined,undefined
+Panama,false,true,true,false,true,false,false,true,false,false,false,false,false,false,3,false,0,false,false,false,undefined,false,undefined,2,1,azure,undefined
+Papua- Nowa Gwinea,false,true,false,true,true,true,false,true,false,false,false,false,false,false,4,false,2,true,false,false,red,true,red,5,1,undefined,undefined
+Paragwaj,true,true,true,false,true,true,true,true,false,true,false,false,false,true,5,false,3,false,false,false,red,false,undefined,0,1,blue,undefined
+Peru,false,true,false,false,true,false,false,false,false,false,false,false,true,false,2,false,3,false,false,true,undefined,false,red,0,1,undefined,red
+Filipiny,false,true,true,false,true,true,false,true,false,true,false,true,false,true,4,false,2,false,false,false,blue,true,undefined,3,1,blue,undefined
+Polska,false,true,false,false,true,false,false,false,false,false,false,false,false,true,2,false,2,false,false,false,white,false,undefined,0,1,undefined,undefined
+Portugalia,true,true,true,false,true,true,true,false,false,true,false,false,true,false,5,false,2,false,false,false,undefined,false,red,0,1,undefined,red
+Portoryko,false,true,true,false,true,false,false,true,false,false,false,true,false,true,3,false,5,false,false,false,red,false,undefined,1,1,blue,undefined
+Katar,false,false,false,false,true,false,false,false,false,false,false,true,true,false,2,false,2,false,false,false,undefined,false,purple,0,1,undefined,purple
+Rumunia,false,true,true,false,false,true,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,0,1,cobalt,undefined
+Rosja,false,true,true,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,white,false,undefined,0,1,blue,undefined
+Rwanda,true,false,true,false,false,true,false,false,false,true,false,false,false,true,3,false,3,false,false,false,blue,true,undefined,0,1,azure,undefined
+Saint Kitts & Nevis,true,true,false,true,true,true,false,true,false,false,false,false,false,false,5,false,5,true,false,false,undefined,false,undefined,2,1,undefined,undefined
+Saint Lucia,false,false,true,true,true,true,false,false,false,false,false,true,false,false,4,false,0,false,false,false,blue,false,blue,0,1,azure,blue
+Saint Vincent & Grenadyny,true,false,true,false,false,true,false,false,false,false,false,false,true,false,3,false,3,false,false,false,undefined,true,green,0,1,azure,undefined
+Samoa,false,true,true,false,true,false,false,true,false,false,false,false,false,false,3,false,0,false,false,false,undefined,false,red,5,1,navy,red
+San Marino,true,false,true,false,true,true,true,false,false,false,false,false,false,true,4,false,2,false,false,false,white,false,undefined,0,1,azure,undefined
+Wyspy Świętego Tomasza i Książęca,true,true,false,true,false,true,false,true,false,false,false,true,false,true,4,false,3,false,false,false,green,false,undefined,2,1,undefined,undefined
+Arabia Saudyjska,true,false,false,false,true,false,false,false,false,false,false,false,false,false,2,false,0,false,false,false,green,true,green,0,1,undefined,green
+Senegal,true,true,false,false,false,true,false,true,false,false,false,false,true,false,3,false,3,false,false,false,undefined,false,red,1,1,undefined,undefined
+Serbia,false,true,true,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,blue,undefined
+Seszele,true,true,true,false,true,true,false,false,false,false,false,false,false,false,5,false,0,false,false,false,undefined,false,undefined,0,1,navy,undefined
+Sierra Leone,true,false,true,false,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,green,false,undefined,0,1,azure,undefined
+Singapur,false,true,false,false,true,false,false,true,true,false,false,false,false,true,2,false,2,false,false,false,red,false,undefined,5,1,undefined,undefined
+Słowacja,false,true,true,false,true,false,true,false,false,false,true,false,false,true,3,false,3,false,false,false,white,false,undefined,0,1,navy,undefined
+Słowenia,false,true,true,false,true,true,true,true,false,false,false,false,false,true,4,false,3,false,false,false,white,false,undefined,3,1,blue,undefined
+Wyspy Solomona,true,false,true,false,true,true,false,true,false,false,false,false,false,false,4,false,3,true,false,false,undefined,false,undefined,5,1,blue,undefined
+Somalia,false,false,true,false,true,false,false,true,false,false,false,false,false,false,2,false,0,false,false,false,blue,false,blue,1,1,azure,blue
+RPA,true,true,true,true,true,true,false,false,false,false,false,true,false,false,6,false,0,false,false,false,undefined,true,undefined,0,1,navy,undefined
+Korea Południowa,false,true,true,true,true,false,false,false,false,true,false,false,false,false,4,false,0,false,false,false,white,true,white,0,1,navy,white
+Hiszpania,false,true,false,false,true,true,true,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,undefined,undefined
+Sri Lanka,true,false,false,false,false,true,false,false,false,false,false,false,true,false,4,true,2,false,false,false,yellow,true,yellow,0,1,undefined,undefined
+Sudan,true,true,false,true,true,false,false,false,false,false,false,true,false,true,4,false,3,false,false,false,red,false,undefined,0,1,undefined,undefined
+Surinam,true,true,false,false,true,true,false,true,false,false,false,false,false,true,4,false,5,false,false,false,green,false,undefined,1,1,undefined,undefined
+Suazi,false,false,true,true,true,true,false,false,false,false,false,false,false,true,5,false,5,false,true,false,blue,true,undefined,0,1,blue,undefined
+Szwecja,false,false,true,false,false,true,false,false,false,false,true,false,false,false,2,false,0,false,false,false,undefined,false,undefined,0,1,blue,blue
+Szwajcaria,false,true,false,false,true,false,false,false,false,false,true,false,false,false,2,false,0,false,false,true,red,false,red,0,1,undefined,red
+Syria,true,true,false,true,true,false,false,true,false,false,false,false,false,true,4,false,3,false,false,false,red,false,undefined,2,1,undefined,undefined
+Tajwan,false,true,true,false,true,false,false,false,false,true,false,false,false,false,3,false,0,false,false,false,undefined,true,red,0,1,navy,red
+Tadżykistan,true,true,false,false,true,true,false,true,false,false,false,false,false,true,4,false,3,false,false,false,red,true,undefined,7,1,undefined,undefined
+Tanzania,true,false,true,true,false,true,false,false,false,false,false,false,false,false,4,false,5,true,false,false,undefined,false,undefined,0,1,azure,undefined
+Zimbabwe,true,true,false,true,true,true,false,true,false,false,false,true,false,true,5,false,7,false,false,false,green,true,undefined,1,1,undefined,undefined
+Zambia,true,true,false,true,false,false,false,false,false,false,false,false,true,false,4,true,3,false,false,false,green,true,undefined,0,1,undefined,green
+Jemen,false,true,false,true,true,false,false,false,false,false,false,false,false,true,3,false,3,false,false,false,red,false,undefined,0,1,undefined,undefined
+Sahara Zachodnia,true,true,false,true,true,false,false,true,true,false,false,true,false,true,4,false,3,false,false,false,black,false,undefined,1,1,undefined,undefined
+Wietnam,false,true,false,false,false,true,false,true,false,false,false,false,false,false,2,false,0,false,false,false,red,false,red,1,1,undefined,red
+Wenezuela,false,true,true,false,true,true,false,true,false,false,false,false,false,true,4,false,3,false,false,false,yellow,false,undefined,8,1,blue,undefined
+Watykan,false,false,false,false,true,true,true,false,false,false,false,false,true,false,4,false,2,false,true,false,undefined,false,white,0,1,undefined,undefined
+Uzbekistan,true,true,true,false,true,false,false,true,true,false,false,false,false,true,4,false,5,false,false,false,blue,false,undefined,12,1,azure,undefined
+Urugwaj,false,false,true,false,true,true,false,false,false,false,false,false,false,true,3,false,9,false,false,false,white,true,undefined,0,1,blue,white
+Stany Zjednoczone,false,true,true,false,true,false,false,true,false,false,false,false,false,true,3,false,13,false,false,false,undefined,false,undefined,50,1,navy,undefined
+Zjednoczone Emiraty Arabskie,true,true,false,true,true,false,false,false,false,false,false,false,false,true,4,false,3,false,false,false,undefined,false,undefined,0,1,undefined,undefined
+Ukraina,false,false,true,false,false,true,false,false,false,false,false,false,false,true,2,false,2,false,false,false,blue,false,undefined,0,1,azure,undefined
+Uganda,false,false,false,true,false,true,false,false,false,true,false,false,false,true,4,true,6,false,false,false,black,true,undefined,0,1,undefined,undefined
+Tuvalu,false,true,true,false,true,true,false,true,false,false,true,false,false,false,5,false,0,false,false,false,undefined,false,blue,9,1,azure,blue
+Turkmenistan,true,false,false,false,true,false,false,true,true,false,false,false,true,false,3,false,3,false,true,false,undefined,true,green,5,1,undefined,green
+Turcja,false,true,false,false,true,false,false,true,true,false,false,false,false,false,2,false,0,false,false,false,red,false,red,1,1,undefined,red
+Tunezja,false,true,false,false,true,false,false,true,true,true,false,false,false,false,2,false,0,false,false,false,red,false,red,1,1,undefined,red
+Trynidad,false,true,false,true,true,false,false,false,false,false,false,false,false,false,3,false,5,true,false,true,undefined,false,red,0,1,undefined,red
+Tonga,false,true,false,false,true,false,false,false,false,false,true,false,false,false,2,false,0,false,false,false,undefined,false,red,0,1,undefined,red
+Togo,true,true,false,false,true,true,false,true,false,false,false,false,false,true,4,false,5,false,false,false,undefined,false,undefined,1,1,undefined,undefined
+Tajlandia,false,true,true,false,true,false,false,false,false,false,false,false,false,true,3,false,5,false,false,true,red,false,undefined,0,1,navy,undefined
+Wielka Brytania,false,true,true,false,true,false,false,false,false,false,true,false,false,false,3,false,0,false,false,true,undefined,true,undefined,0,1,navy,undefined
+Vanatu,true,true,false,true,false,true,false,false,false,false,false,true,false,false,4,false,0,false,false,false,red,true,undefined,0,1,undefined,undefined
